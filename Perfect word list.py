@@ -13,3 +13,4 @@ with open ('Custom Words mid range.csv' , 'w') as wf:
                     else:
                         wf.write(i.rstrip()+'\n')
                         k=i
+                        # nothong added
